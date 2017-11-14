@@ -25,7 +25,7 @@ else
 {line(x+spacing,y,x,y+spacing);}
 x = x +spacing ;
 }
-p = p + 0.025;
+p = p + 0.125;
 print(p);
 }
 noLoop();

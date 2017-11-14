@@ -4,7 +4,7 @@ let spacing = 10;
 let p = 0 ;
 
 function setup() {
- createCanvas(400, 400);
+ createCanvas(displyWidth,displayHeight);
  background(0);
 }    
 

@@ -8,6 +8,7 @@ var canvas;
 function setup() {
 canvas = createCanvas(300,300);
  background(0);
+ canvas.position(500,200);
 }    
 
 function draw() {

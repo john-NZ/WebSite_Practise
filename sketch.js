@@ -3,8 +3,10 @@ let y = 0;
 let spacing = 10;
 let p = 0 ;
 
+var canvas;
+
 function setup() {
- createCanvas(300,300);
+canvas = createCanvas(300,300);
  background(0);
 }    
 
